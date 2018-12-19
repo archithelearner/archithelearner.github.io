@@ -1,24 +1,26 @@
 .display{
     text-align: center;
-    color:brown;
+    color:rgb(238, 11, 49);
 font-family: 'Courier New';
     font-size:50px;   
     margin-top:-200px;
 }
-   
+
+
 .lead{
     text-align: center;
     font-family: 'Courier New';
-    color: brown;
+    color:rgb(238, 11, 49);
     
 }
 
+
 #img{
 margin-top: -30px;
- height:250px; 
- transform: rotateZ(360deg);
- 
-  
+height:250px; 
+transform: rotateZ(360deg);
+
+
 }   
 .jumbotron{
     background: url(52030997.jpg);
@@ -26,13 +28,15 @@ margin-top: -30px;
     height: 300px;
     
 }
+
+
 .title{
-    color: rgb(247, 141, 11);
+    color:rgb(238, 11, 49);
     font-family: 'Franklin Gothic Medium';
 }
 
 .col1{
-    margin-top: 6%;
+    margin-top: 0%;
 }
     
 .row1{
@@ -40,6 +44,10 @@ margin-top: -30px;
 }
 #mrmen{
     margin-left:15%;
+    color:red;
+}
+#mm{
+    margin-right: 80%;
 }
 
 .row2{
@@ -47,31 +55,42 @@ margin-top: -30px;
 }
 #garden{
     margin-left:15%;
+    color:red;
 }
 #navbar{
     margin-left:25%;
     margin-top:8%;
+    color:red;
 }
 #animation{
-    margin-left:20%;
+    margin-left:-5%;
     margin-top:6%;
+    color:red;
 }
+#ani{
+    position: relative;
+    right:80px;
+}
+
 
 .row3{
     margin-bottom: 30px;
 }
 #buttons{
     margin-left: 13%;
+    color:red;
 }
 #drum{
 margin-left: 20%;
 margin-top: 5%;
+color:red;
 }
 #image{
     margin-left: 15%;
 }
 #clock{
     margin-left: 28%;
+    color:red;
 }
 #img2{
     margin-left: 10%;
@@ -82,12 +101,37 @@ margin-top: 5%;
 
 #play1{
     margin-left: 12%;
+    color:red;
 }
 #play2{
-    margin-left: 18%;
+    margin-left: 45px;
+    color:red;
 }
 #img3{
-    margin-left: 10%;
+    margin-right: 20%;
+}
+.bgimage{
+    background:url(19928228-3642-blue-wood-background.jpg) no-repeat;
+    background-size: cover;
+    
+}
+.color{
+    color:red;
+}
+.color1{
+    color:red;
+    margin-left: 70px;
+}
+#clock{
+    margin-left:70px;
+
+    
+}
+.color2{
+    color:red;
+}
+.color3{
+    color:red;
 }
 
 
